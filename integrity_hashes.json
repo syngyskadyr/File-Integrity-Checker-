@@ -1,0 +1,32 @@
+{
+  "test_log\\application.log": {
+    "hash": "95ad8cac7e35f6e989f5e00db19b42d36763f334da1e7d06248f32c17de80276",
+    "timestamp": "2026-02-12T20:14:54.802252",
+    "size": 158
+  },
+  "test_log\\auth.log": {
+    "hash": "9f7a62cb5dd33c0a47d3197cd18ba56dffc018f0811b331d2c8780fb6aa9bbf6",
+    "timestamp": "2026-02-12T20:14:54.802252",
+    "size": 291
+  },
+  "test_log\\syslog.txt": {
+    "hash": "9a25c3fed7a92400c50451f02e8c2dd037634f2cbca6491eaddb19bd276e83d2",
+    "timestamp": "2026-02-12T20:14:54.803264",
+    "size": 164
+  },
+  "test_log/application.log": {
+    "hash": "95ad8cac7e35f6e989f5e00db19b42d36763f334da1e7d06248f32c17de80276",
+    "timestamp": "2026-02-16T13:22:47.712200",
+    "size": 158
+  },
+  "test_log/auth.log": {
+    "hash": "7bde789f618f76ee78c0d655e0988a115e36cdd96eb5ba774922a08bb8a6685d",
+    "timestamp": "2026-02-16T20:39:56.725291",
+    "size": 381
+  },
+  "test_log/syslog.txt": {
+    "hash": "9a25c3fed7a92400c50451f02e8c2dd037634f2cbca6491eaddb19bd276e83d2",
+    "timestamp": "2026-02-16T13:24:02.105761",
+    "size": 164
+  }
+}

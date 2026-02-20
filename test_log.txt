@@ -1,0 +1,8 @@
+2026-02-12 10:30:15 [INFO] System started successfully
+2026-02-12 10:30:20 [INFO] User 'admin' logged in from 192.168.1.100
+2026-02-12 10:35:42 [WARNING] High CPU usage detected: 87%
+2026-02-12 10:40:11 [INFO] Backup completed successfully
+2026-02-12 10:45:33 [ERROR] Failed to connect to database
+2026-02-12 10:50:00 [INFO] New log entry added
+2026-2-12 10:50:00 [INFO] New log entry added
+2026-02-12 11:00:00 [CRITICAL] HACKER WAS THERE!
